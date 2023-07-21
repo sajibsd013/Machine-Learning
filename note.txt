@@ -1,0 +1,7 @@
+Lab Final Syllabus:
+    1.	Linear Regression
+2.	Logistic Regression
+3.	K-Nearest Neighbor (KNN)
+4.	Artificial Neural Network
+5.	K-means clustering
+6.	Recommender System (content-based filtering)
